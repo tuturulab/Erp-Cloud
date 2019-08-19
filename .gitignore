@@ -7,8 +7,6 @@
 # Ignore bundler config.
 /.bundle
 
-/.connections.env
-
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
@@ -34,3 +32,4 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+connections.env
